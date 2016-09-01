@@ -1,0 +1,6 @@
+https://msdn.microsoft.com/en-us/library/system.io.ports.serialport(v=vs.110).aspx
+https://www.youtube.com/watch?v=W4NyevEQnCI
+http://www.codeproject.com/Articles/678025/Serial-Comms-in-Csharp-for-Beginners
+http://www.instructables.com/id/Serial-Port-Programming-With-NET/
+http://csharp.simpleserial.com/
+http://stackoverflow.com/questions/1243070/how-to-read-and-write-from-the-serial-port
