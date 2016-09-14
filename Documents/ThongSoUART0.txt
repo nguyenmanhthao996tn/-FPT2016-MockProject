@@ -1,0 +1,5 @@
+Baud rate: 115200
+Data bits: 8
+Stop bits: 1
+Parity: None
+Handshake: None
