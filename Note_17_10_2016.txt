@@ -1,0 +1,30 @@
++ message to phone attach with function code
+
+CHK: 00 07 03 43 48 4B 01
+OK:  00 07 02 4F 4B 01
+
+
+Timeout = 1s
+waiting time = 1s
+init = not connect
+
+<phone disconnect>
+Timeout -> send (not ack) -> not connect
+
+<phone connect>
+Timeout -> send (ack) -> connected
+Receive -> reset Timeout -> connected
+
+
+Timeout = 1s
+Send to PC: CHK
+	+ PC send to phone: OK -> Connected
+	+ PC not send -> not connected
+
+Phone receive CHK: OK -> Connected
+
+Start | Function Code | Msg | Stop
+
+
+sdifhsdfgjsfd adjasdh== ok chk
+1s
